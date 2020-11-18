@@ -1,0 +1,9 @@
+﻿  FranchAtm.cpp
+C:\Users\kasra\source\repos\PrjConFrenchAtmC++\PrjConFrenchAtmC++\AtmHeader.h(23,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kasra\source\repos\PrjConFrenchAtmC++\PrjConFrenchAtmC++\AtmHeader.h(30,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kasra\source\repos\PrjConFrenchAtmC++\PrjConFrenchAtmC++\AtmHeader.h(41,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kasra\source\repos\PrjConFrenchAtmC++\PrjConFrenchAtmC++\AtmHeader.h(48,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kasra\source\repos\PrjConFrenchAtmC++\PrjConFrenchAtmC++\AtmHeader.h(146,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\kasra\source\repos\PrjConFrenchAtmC++\PrjConFrenchAtmC++\AtmHeader.h(176,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\kasra\source\repos\PrjConFrenchAtmC++\PrjConFrenchAtmC++\FranchAtm.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PrjConFrenchAtmC++.vcxproj -> C:\Users\kasra\source\repos\PrjConFrenchAtmC++\Debug\PrjConFrenchAtmC++.exe

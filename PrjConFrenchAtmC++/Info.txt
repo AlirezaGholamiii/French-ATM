@@ -1,0 +1,15 @@
+CP001
+Bill Gates
+windows
+1000000
+CP002
+Tom Hardy
+movie
+1000000
+CP003
+Steve Jobs
+apple
+1000000
+1000002
+
+999500
