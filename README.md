@@ -12,5 +12,12 @@
 <br><br>
 👉 Developed By Alireza Gholami
 
+# Run On Your Machine
+1- Download the file.\
+2- Extract the zip file.\
+3- Open the .Cpp and .h files in your code editor.\
+4- Run the app.
+
+
 
 
